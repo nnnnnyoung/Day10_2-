@@ -4,6 +4,12 @@ public class Day10_08 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+//		1 2 3 4 5 
+//		10 9 8 7 6 
+//		11 12 13 14 15 
+//		20 19 18 17 16 
+//		배열을 저장하시오
+		
 		int cnt=1;
 		int [][] c=new int[4][5];
 		

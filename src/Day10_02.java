@@ -5,7 +5,11 @@ public class Day10_02 {
 		// TODO Auto-generated method stub
 		
 //		2차원 배열
-		
+//				{1,2,3,4,5}
+//				{6,7,8,9,10}
+//				{11,12,13,14,15}
+//				{16,17,18,19,20} 
+//				의 배열을 저장하시오
 		int ccnt=1;
 		int[][] c=new int[4][8];
 		
