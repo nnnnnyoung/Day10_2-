@@ -9,7 +9,7 @@ public class Day10_05 {
 //		19 15 11 7 3 
 //		20 16 12 8 4 
 //		의 배열을 저장하시오
-		
+		 
 		
 		int [][]a=new int [4][5];
 		int cnt=1;

@@ -14,7 +14,7 @@ public class Day10_11 {
 			for (int i=sCol; i<=mCol; i++) {
 				a[sRow][i]=cnt; cnt++;		
 			}
-			sRow++;
+			sRow++; 
 			
 			for(int i=sRow; i<=mRow; i++) {
 				a[i][mCol]=cnt; cnt++;

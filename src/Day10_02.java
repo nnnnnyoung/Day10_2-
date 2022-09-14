@@ -11,7 +11,7 @@ public class Day10_02 {
 //				{16,17,18,19,20} 
 //				의 배열을 저장하시오
 		int ccnt=1;
-		int[][] c=new int[4][8];
+		int[][] c=new int[4][8]; 
 		
 		for(int i=0; i<4; i++) { //i는 행
 			for(int j=0; j<8; j++) { //j는 열

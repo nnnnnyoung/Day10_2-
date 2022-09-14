@@ -23,7 +23,7 @@ public class Day10_09 {
 					cnt++;
 					emp-=1;
 				}
-			}
+			} 
 		}
 		
 		for(int i=1; i<4; i++) {
